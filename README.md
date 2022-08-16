@@ -1,4 +1,4 @@
-# How to run
+## How to run
 ### Step 1: Install Python Packages
 #### pip install -r requirements.txt
 
@@ -9,6 +9,11 @@
 #### Default host = 127.0.0.1, port = 1234
 #### http://127.0.0.1:1234/docs
 
-# Get Funtion
-### /show-dogname
-### get all dog name from wiki
+## Get Funtion
+#### /show-dogname : get all dog name from wiki
+#### /get-dog_from : get dog from
+#### /get-dog_type : get dog type
+
+## Post Funtion
+#### /add-Newdog : Add a dog to list
+#### /upload : Upload file
