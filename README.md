@@ -9,3 +9,6 @@
 #### Default host = 127.0.0.1, port = 1234
 #### http://127.0.0.1:1234/docs
 
+# Get Funtion
+### /show-dogname
+### get all dog name from wiki
